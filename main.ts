@@ -321,7 +321,7 @@ game.setDialogCursor(img`
     .......fffff..fffffff...........
     ......ffffff..ffffffff..........
     `)
-game.splash("Little timmy run")
+game.splash("Little timmy run Record du monde: 2799      ")
 scene.setBackgroundColor(9)
 initGround()
 initRaptor()
